@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pekskumar
-- I am also working as Freelancer.
+
 
 <!---
 Pekskumar/Pekskumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
