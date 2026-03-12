@@ -14,7 +14,7 @@
 <h3 align="center">Innovative Frontend Developer | React.js Expert | API Integrator</h3>
 
 <p align="center">
-  🚀 4.8+ years experience in building scalable, high-performance web apps  
+  🚀 5+ years experience in building scalable, high-performance web apps  
   <br/>⚡ Specialized in React.js, Redux Toolkit, Next.js, Node.js & advanced API integrations  
 </p>
 
