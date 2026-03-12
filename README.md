@@ -59,7 +59,7 @@
 
 ## ⭐ **Highlighted Projects (Official)**
 
-### 🔹 **MIA — AI Chat/Voice Bot Builder**
+### 🔹 **Super MIA — AI Chat/Voice Bot Builder**
 AI platform using **ChatGPT + LiveKit**, enabling voice-based bot interactions with real-time processing.
 
 ### 🔹 **Forever Roses – QR Gift Platform**
